@@ -2,8 +2,40 @@
 
 A modern, responsive Next.js frontend application for managing leads with real-time analytics, search, filtering, and pagination capabilities.
 
+## Live Demo
+
+- **Frontend**: [https://lead-management-frontend-amber.vercel.app/dashboard](https://lead-management-frontend-amber.vercel.app/dashboard)
+- **Backend API**: [https://lead-management-backend-yvna.onrender.com](https://lead-management-backend-yvna.onrender.com)
+
+## GitHub Repositories
+
+- **Frontend Repository**: [https://github.com/Aashutosh2004011/lead_management_frontend](https://github.com/Aashutosh2004011/lead_management_frontend)
+- **Backend Repository**: [https://github.com/Aashutosh2004011/lead_management_backend](https://github.com/Aashutosh2004011/lead_management_backend)
+
+### How to Access the Live Application
+
+To ensure the app works properly, follow these steps:
+
+1. **First, visit the Backend URL**: [https://lead-management-backend-yvna.onrender.com](https://lead-management-backend-yvna.onrender.com)
+   - This wakes up the Render instance (free tier spins down after inactivity)
+   - Wait for the backend to respond (may take 30-60 seconds on first load)
+   - You should see a JSON response or API message
+
+2. **Then, visit the Frontend URL**: [https://lead-management-frontend-amber.vercel.app/dashboard](https://lead-management-frontend-amber.vercel.app/dashboard)
+   - The frontend will now connect to the active backend
+   - Login with demo credentials (see below)
+   - The app will work perfectly with all features
+
+**Demo Credentials**:
+```
+Email: demo@example.com
+Password: demo123
+```
+
 ## Table of Contents
 
+- [Live Demo](#live-demo)
+- [GitHub Repositories](#github-repositories)
 - [Overview](#overview)
 - [Tech Stack](#tech-stack)
 - [Features](#features)
